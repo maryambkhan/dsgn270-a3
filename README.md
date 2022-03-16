@@ -10,12 +10,12 @@
 ### Code Journal
 
   - I wanted crate a logo for photography website so this is what i colleted:
-    ![Mood board](/images/mood board.PNG)
+    ![Moodboard](/images/mood board.PNG)
 
  - Ahhhh making logo is so hard i have tired to work on one image from my moodboard 
    i have got one done but i dont like it.
      
-     ![Camera](images/prptotype-1.PNG)
+     ![Camera](images/pr0totype-1.PNG)
 
  - I have ideas what i want to do but implementation is hard.This was realy a challenge for me
  - Having problem using pen
@@ -26,7 +26,7 @@
  - I tried to create 4 of these but this is what i could get
  - let's see my mood board 
 
-  ![updated-Mood Board](images/updated-moodboard.PNG)
+  ![updated MoodBoard](images/updated-moodboard.PNG)
 
  - In my updated moodboard i have got image, its so silly idea i dont even know why i added this in there.
    while i was working on it just hit me so i just put in on canvas LOL
