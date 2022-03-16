@@ -10,8 +10,8 @@
 ### Code Journal
 
   - I wanted crate a logo for photography website so this is what i colleted:
-  
-    ![Moodboard](assets/images/mood board.PNG)
+
+    ![Moodboard](assets/images/mood-board.PNG)
 
  - Ahhhh making logo is so hard i have tired to work on one image from my moodboard 
    i have got one done but i dont like it.
